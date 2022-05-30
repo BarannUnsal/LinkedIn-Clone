@@ -1,0 +1,30 @@
+.border_bottom_dark {
+    border-bottom: 1px solid rgb(200, 200, 200)
+}
+.input_container {
+    position: relative;
+    margin-left: 10px;
+    height: 36px;
+}
+.input_ {
+    width: 310px;
+    border-radius: 10px;
+    text-indent: 33px;
+}
+.input_container .fa-solid{
+    position: absolute;
+    left: 10px;
+    top: 11px;
+    color: #9ca3af;
+}
+.list_container {
+    font-size:14px;
+}
+.link {
+    margin-left: 80px;
+}
+.post_input {
+    width: 570px;
+    border-radius: 235px;
+    text-indent: 8  px;
+}
